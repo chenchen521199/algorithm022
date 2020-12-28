@@ -20,8 +20,6 @@
 // 👍 321 👎 0
 
 
-package leetcode.editor.cn;
-
 import java.util.Arrays;
 
 //java:有效的字母异位词

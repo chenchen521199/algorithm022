@@ -15,8 +15,6 @@
 // 👍 9821 👎 0
 
 
-package leetcode.editor.cn;
-
 import java.util.HashMap;
 
 //java:两数之和
